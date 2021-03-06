@@ -3,7 +3,7 @@
 
 - 👍 I'm looking for a job!
 - 🔭 I’m currently working on: [Deep Learning based Chatbot](https://github.com/yeseonson/chatbot-heroes)
-- 🌱 I’m currently learning: **Python, ML, DL**
+- 🌱 I’m currently learning: **ML, DL**
 - 📚 What I've Learned: <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ysson96@gmail.com)](mailto:ysson96@gmail.com)
 
